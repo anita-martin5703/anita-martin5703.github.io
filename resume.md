@@ -12,14 +12,14 @@
 <hr>
 
 ### TECHNIAL TOOLBOX
+|   |   |
+|---|---|
+|Languages:| Visual Basic for Application (VBA)|
+|Operating System:| Windows: 10, XP, LINUX|
+|Software:| Microsoft Office, Internet Explorer, Mozilla Firefox, GitHub, Google Chrome, Google applications: Docs, Gmail, Calendar, Maps, Oracle, Intellj/JetBrains|
+|Troubleshooting: | Diagnosis of printers and network connections.|
+|Other Skills:| Basic networking skills.|
 
-<table>
-      <tr><td> Languages: <td><td> Visual Basic for Application (VBA) <td></tr>
-      <tr><td> Operating System: <td><td> Windows: 10, XP, LINUX <td></tr>
-      <tr><td> Software: <td><td> Microsoft Office, Internet Explorer, Mozilla Firefox, GitHub, Google Chrome, Google applications: Docs, Gmail, Calendar, Maps, Oracle, Intellj/JetBrains <td></tr>
-      <tr><td> Troubleshooting: <td><td> Diagnosis of printers and network connections.<td></tr>
-      <tr><td> Other Skills: <td><td> Basic networking skills.<td></tr>
-</table>
 <hr>
 
 ### EDUCATION
