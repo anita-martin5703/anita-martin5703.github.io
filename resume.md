@@ -1,12 +1,12 @@
 # ANITA MARTN
-#### 5741 Osuna RD NE #213 ● Albuquerque, NM 87109 ● Phone: (505) 710-2706
+#### //5741 Osuna RD NE #213 ● Albuquerque, NM 87109 ● Phone: (505) 710-2706
 #### Email: [anita.martin5703@gmail.com](mailto:anita[at]anita.martin5703@gmail.com) ● GitHub Username: anita-martin5703
 
 <hr>
 
 ### PROFESSIONAL STATEMENT
 
-<p> I am pursuing a new career after a career in the warehouse industry. I discovered after a decade in management roles that my real passion was in having the ability to understand computers and wanting to learn more about them to become more well-rounded and understand its functions, and to build on top of that. While working as a Warehouse Manager gave me some satisfaction in this, I have been wanting to advance my knowledge and start to learn to code through taking classes. This is when I decided that I wanted to return to school and learn the current computer languages and techniques that can help me further my career in becoming a Software Programmer.
+<p> I am pursuing a new career after a career in the warehouse/satellite industry. I discovered after some years in management roles my real passion is in Computer Technology. While working at my last position, as a Warehouse Manager gave me some satisfaction in this, I have been wanting to expand my knowledge and abilities to learn code through taking classes. This is when I decided that I wanted to return to school and learn the current computer languages and techniques that can help me further my career in becoming a Software Programmer.
 </p>
 
 <hr>
@@ -15,24 +15,36 @@
 
 Languages	Visual Basic for Application (VBA)
 Operating Systems	Windows: 10, XP, LINUX
-Software	Microsoft Office, Internet Explorer, Mozilla Firefox, GitHub, Google Chrome, Google applications: Docs, Gmail, Calendar, Maps, Oracle
-Troubleshooting	Diagnosis of printers, and network connections.
-
+Software	Microsoft Office, Internet Explorer, Mozilla Firefox, GitHub, Google Chrome, Google applications: Docs, Gmail, Calendar, Maps, Oracle, Intellj/JetBrains
+Troubleshooting	Diagnosis of printers and network connections.
 Other Skills	Basic networking skills.
 
 <hr>
 
 ### EDUCATION
-Central NM Community College (CNM), STEMulus Center, Albuquerque, NM             
-Deep Dive Coding Bootcamp								Expected August 2019
-<i> Certificate of Completion – JAVA + Android </i>
+CNM STEMulus Center, Albuquerque, NM	Expected August 2019
+Certificate of Completion -Deep Dive Bootcamp– JAVA + Android 	
 •	Currently enrolled in a 10-week JAVA + Android Bootcamp 
 
-ITT Technical Institute, Albuquerque, NM                   						May 2005
-<i> AAS Degree in Information Technology/ Computer Networking Systems </i>
+ITT Technical Institute, Albuquerque, NM	MAY 2005
+AAS Degree in Information Technology/ Computer Networking Systems
 •	Related Coursework in the field of Information Technology
 
-<hr> 
+<hr>
+
+### SKILLS
+<ul>
+ <li> Proficient in Microsoft Office using PowerPoint, Microsoft Word, Outlook, & Excel.  
+ <li> Proficient in inventory software (databases and systems). 
+ <li> Possesses strong communication skills among all colleagues.  
+ <li> Ability to work in groups or independently. 
+ <li> Possess strong organization skills to stay on top of daily tasks such as inventory, ordering, and control. 
+ <li> Has the ability to work well under pressure and in multitasking environments.  
+ <li> Proficient skills in team building.
+ <li> Strong leadership and management skills over small and large groups.
+</ul>
+
+<hr>
 
 ### EXPERIENCE
 DISH Network		September 2009 to May 2009
@@ -65,19 +77,3 @@ Dollar Tree			January 2004 to December 2007
  <li> Keeping monthly sales to a target range by pushing product sales through employee coaching.
  <li> In charge of new store openings by handling all required logistics. 
 </ul>
-
-<hr>
-
-### SKILLS
-<ul>
- <li> Proficient in Microsoft Office using PowerPoint, Microsoft Word, Outlook, & Excel.  
- <li> Proficient in inventory software (databases and systems). 
- <li> Possesses strong communication skills among all colleagues.  
- <li> Ability to work in groups or independently. 
- <li> Possess strong organization skills to stay on top of daily tasks such as inventory, ordering, and control. 
- <li> Has the ability to work well under pressure and in multitasking environments.  
- <li> Proficient skills in team building.
- <li> Strong leadership and management skills over small and large groups.
-</ul>
-
-
