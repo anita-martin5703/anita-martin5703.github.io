@@ -1,5 +1,5 @@
 # ANITA MARTN
-#### //5741 Osuna RD NE #213 ● Albuquerque, NM 87109 ● Phone: (505) 710-2706
+>#### 5741 Osuna RD NE #213 ● Albuquerque, NM 87109 ● Phone: (505) 710-2706</blockquote
 #### Email: [anita.martin5703@gmail.com](mailto:anita[at]anita.martin5703@gmail.com) ● GitHub Username: anita-martin5703
 
 <hr>
@@ -13,22 +13,28 @@
 
 ### TECHNIAL TOOLBOX
 
-Languages	Visual Basic for Application (VBA)
-Operating Systems	Windows: 10, XP, LINUX
-Software	Microsoft Office, Internet Explorer, Mozilla Firefox, GitHub, Google Chrome, Google applications: Docs, Gmail, Calendar, Maps, Oracle, Intellj/JetBrains
-Troubleshooting	Diagnosis of printers and network connections.
-Other Skills	Basic networking skills.
+|   |   |
+|---|---|
+|Languages:|  	Visual Basic for Application (VBA)|
+|Operating Systems	Windows:| 10, XP, LINUX|
+|Software:|	Microsoft Office, Internet Explorer, Mozilla Firefox, GitHub, Google Chrome, Google applications: Docs, Gmail, Calendar, Maps, Oracle, Intellj/JetBrains|
+|Troubleshooting:|	Diagnosis of printers and network connections.|
+|Other Skills:|	Basic networking skills.|
 
 <hr>
 
 ### EDUCATION
-CNM STEMulus Center, Albuquerque, NM	Expected August 2019
-Certificate of Completion -Deep Dive Bootcamp– JAVA + Android 	
-•	Currently enrolled in a 10-week JAVA + Android Bootcamp 
+|   |   |   |
+|---|---|---|
+|CNM STEMulus Center, Albuquerque, NM|Certificate of Completion -Deep Dive Bootcamp– JAVA + Android|	Expected August 2019|
 
-ITT Technical Institute, Albuquerque, NM	MAY 2005
-AAS Degree in Information Technology/ Computer Networking Systems
-•	Related Coursework in the field of Information Technology
+      •	Currently enrolled in a 10-week JAVA + Android Bootcamp 
+
+|   |   |   |
+|---|---|---|
+|ITT Technical Institute, Albuquerque, NM|AAS Degree in Information Technology/ Computer Networking Systems|MAY 2005|
+
+      •	Related Coursework in the field of Information Technology
 
 <hr>
 
@@ -47,8 +53,9 @@ AAS Degree in Information Technology/ Computer Networking Systems
 <hr>
 
 ### EXPERIENCE
-DISH Network		September 2009 to May 2009
-<b> Warehouse Manager </b>
+|   |   |   |
+|---|---|---|
+|DISH Network		|  September 2009 to May 2009|  <b> Warehouse Manager </b>|
 <ul>
  <li> Maintains inventory and manages equipment use for remote technicians through ORACLE, Excel, and OFSC system software.  
  <li> Maintains an accurate physical count of van product, warehouse product, and salable product on a weekly and monthly base.   
@@ -58,8 +65,9 @@ DISH Network		September 2009 to May 2009
  <li> Works in Excel to create spread sheets for accuracy of technician inventory and to maximize efficiency.
 </ul>
 
-Promark Research	September 2008 to September 2009
-<b> Floor Supervisor </b>
+|   |   |   |
+|---|---|---|
+|Promark Research	|  September 2008 to September 2009|  <b> Floor Supervisor </b>
 <ul>
  <li> Implementation of nationwide surveys for data collection.  
  <li> Completed data entry in Excel for data analysis.  
@@ -68,8 +76,9 @@ Promark Research	September 2008 to September 2009
  <li> Development of phone scripts for new and future employees.  
 </ul>
 
-Dollar Tree			January 2004 to December 2007
-<b> Store Manager </b>
+|   |   |   |
+|---|---|---|
+|Dollar Tree|  January 2004 to December 2007|  <b> Store Manager </b>|
 <ul>
  <li> Evaluation of store associates for promotions, pay increases, and all other feedback.  
  <li> In charge of all hiring processes such as interviews, scheduling, salary, and all human resources requirements.  
